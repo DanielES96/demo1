@@ -5,6 +5,8 @@
 // then click the URL that is emitted to the Output tab of the console
 
 echo 'Hello world from Costa Rica!';
+echo 'Hello world from Costa Rica!';
+
 
 ?>
 </body>
